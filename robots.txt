@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pasteurizer.xiaoze16.dpdns.org/sitemap.xml
